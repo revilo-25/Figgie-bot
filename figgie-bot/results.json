@@ -1,0 +1,288 @@
+{
+ "E1 same table": {
+  "PotMM": [
+   5.8,
+   4.1
+  ],
+  "HandMM": [
+   1.0,
+   1.6
+  ],
+  "FlowMM": [
+   3.2,
+   4.3
+  ],
+  "FixedSpread": [
+   -9.9,
+   2.0
+  ]
+ },
+ "E2 ConstVal(8.8) vs 3 Random": {
+  "ConstVal(8.8)": [
+   46.6,
+   4.2
+  ],
+  "Random": [
+   -15.6,
+   5.2
+  ]
+ },
+ "E2 HandMM(real) vs 3 Random": {
+  "HandMM(real)": [
+   -0.9,
+   1.3
+  ],
+  "Random": [
+   3.7,
+   5.5
+  ]
+ },
+ "E2 HandVal vs 3 Random": {
+  "HandVal": [
+   -0.9,
+   1.3
+  ],
+  "Random": [
+   3.7,
+   5.5
+  ]
+ },
+ "E2 HandValLevel vs 3 Random": {
+  "HandValLevel": [
+   44.3,
+   3.9
+  ],
+  "Random": [
+   -15.9,
+   5.3
+  ]
+ },
+ "E2 PotValSymmetric vs 3 Random": {
+  "PotValSymmetric": [
+   -0.1,
+   4.8
+  ],
+  "Random": [
+   2.7,
+   5.9
+  ]
+ },
+ "E2 PotVal vs 3 Random": {
+  "PotVal": [
+   46.5,
+   5.0
+  ],
+  "Random": [
+   -15.3,
+   5.6
+  ]
+ },
+ "E2 PotValShuffled vs 3 Random": {
+  "PotValShuffled": [
+   18.8,
+   3.6
+  ],
+  "Random": [
+   -5.3,
+   5.7
+  ]
+ },
+ "E2 PotMM(real) vs 3 Random": {
+  "PotMM(real)": [
+   46.5,
+   5.0
+  ],
+  "Random": [
+   -15.3,
+   5.6
+  ]
+ },
+ "E2 ConstVal(8.8) vs 3 PotMM": {
+  "ConstVal(8.8)": [
+   6.3,
+   3.6
+  ],
+  "PotMM": [
+   -0.6,
+   4.3
+  ]
+ },
+ "E2 HandMM(real) vs 3 PotMM": {
+  "HandMM(real)": [
+   6.9,
+   1.9
+  ],
+  "PotMM": [
+   1.4,
+   4.7
+  ]
+ },
+ "E2 HandVal vs 3 PotMM": {
+  "HandVal": [
+   6.9,
+   1.9
+  ],
+  "PotMM": [
+   1.4,
+   4.7
+  ]
+ },
+ "E2 HandValLevel vs 3 PotMM": {
+  "HandValLevel": [
+   1.9,
+   5.1
+  ],
+  "PotMM": [
+   1.6,
+   4.4
+  ]
+ },
+ "E2 PotValSymmetric vs 3 PotMM": {
+  "PotValSymmetric": [
+   -40.2,
+   8.2
+  ],
+  "PotMM": [
+   12.3,
+   6.0
+  ]
+ },
+ "E2 PotVal vs 3 PotMM": {
+  "PotVal": [
+   0.1,
+   4.2
+  ],
+  "PotMM": [
+   1.5,
+   4.5
+  ]
+ },
+ "E2 PotValShuffled vs 3 PotMM": {
+  "PotValShuffled": [
+   -19.9,
+   6.4
+  ],
+  "PotMM": [
+   8.2,
+   5.3
+  ]
+ },
+ "E2 PotMM(real) vs 3 PotMM": {
+  "PotMM(real)": [
+   0.1,
+   4.2
+  ],
+  "PotMM": [
+   1.5,
+   4.5
+  ]
+ },
+ "E3 PotMM vs 3 Momentum": {
+  "PotMM": [
+   59.6,
+   6.0
+  ],
+  "Mom": [
+   -19.9,
+   2.9
+  ]
+ },
+ "E3 HandMM vs 3 Momentum": {
+  "HandMM": [
+   99.9,
+   6.8
+  ],
+  "Mom": [
+   -31.1,
+   3.6
+  ]
+ },
+ "E3 ConstVal(8.8) vs 3 Momentum": {
+  "ConstVal(8.8)": [
+   56.5,
+   7.1
+  ],
+  "Mom": [
+   -16.2,
+   3.6
+  ]
+ },
+ "E3 PotValShuffled vs 3 Momentum": {
+  "PotValShuffled": [
+   39.0,
+   7.7
+  ],
+  "Mom": [
+   -13.1,
+   3.8
+  ]
+ },
+ "E3 FixedSpread vs 3 Momentum": {
+  "FixedSpread": [
+   155.3,
+   7.3
+  ],
+  "Mom": [
+   -49.7,
+   3.7
+  ]
+ },
+ "E4 FixedSpread vs 3 Random": {
+  "FixedSpread": [
+   28.3,
+   1.2
+  ],
+  "Random": [
+   -12.4,
+   5.2
+  ]
+ },
+ "E4 FixedSpread vs 3 PotMM": {
+  "FixedSpread": [
+   -3.9,
+   2.3
+  ],
+  "PotMM": [
+   6.3,
+   4.4
+  ]
+ },
+ "E4 FixedSpread vs 3 HandMM": {
+  "FixedSpread": [
+   -1.9,
+   4.0
+  ],
+  "HandMM": [
+   3.2,
+   4.3
+  ]
+ },
+ "E4 FixedSpread vs 3 FixedSpread": {
+  "FixedSpread": [
+   0.9,
+   4.2
+  ],
+  "Fixed": [
+   0.9,
+   4.2
+  ]
+ },
+ "E4b sales by buyer": {
+  "FixedSpread": [
+   0.0,
+   0.0
+  ],
+  "Random": [
+   2.5,
+   9.84
+  ],
+  "Momentum": [
+   4.27,
+   8.0
+  ],
+  "PotMM": [
+   1.88,
+   11.39
+  ]
+ }
+}
